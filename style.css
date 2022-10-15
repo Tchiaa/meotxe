@@ -1,0 +1,10 @@
+ul{
+display: flex
+}
+li{
+
+margin-left: 100px;
+list-style: none;
+color: blue;
+
+}
